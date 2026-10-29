@@ -1,0 +1,56 @@
+name: Build master annotations
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/annotations/raw/**/*.json'
+      - 'scripts/merge_annotations.py'
+      - 'tests/test_merge_annotations.py'
+      - '.github/workflows/merge-annotations.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: master-annotations-main
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Rebuild and commit master JSON
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4 5; do
+            # This is a disposable Actions checkout. Always merge the latest raw files.
+            git fetch origin main
+            git reset --hard origin/main
+            python -m unittest discover -s tests -p 'test_merge_annotations.py'
+            python scripts/merge_annotations.py
+            git add data/annotations/master.json
+            if git diff --cached --quiet; then
+              echo 'Master JSON is already current.'
+              exit 0
+            fi
+            git commit -m 'Update master annotations'
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rejected; rebuilding from the latest branch (attempt $attempt)."
+          done
+          echo 'Unable to publish master JSON after five attempts.' >&2
+          exit 1
