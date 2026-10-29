@@ -1,0 +1,1540 @@
+{
+  "schema_version": 1,
+  "submission_id": "607994b6-5cb3-42fd-97dc-74d29aceaf41",
+  "dataset_id": "study-f910f839701b6cf92926",
+  "guidelines_version": "2.0",
+  "group_id": "group-01",
+  "group_version": "4bbaf166dd5ade0d5b18",
+  "annotator_id": "student01",
+  "annotations": {
+    "img-8215acdd3463fad6e519ed6b4fa1090d2f469ba3c33e8c8fe344e487713de434": {
+      "image_id": "img-8215acdd3463fad6e519ed6b4fa1090d2f469ba3c33e8c8fe344e487713de434",
+      "filename": "image_0005.jpg",
+      "labels": [
+        "lens_fog_condensation"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 19.3905,
+      "display": {
+        "display_sha256": "34857245656010571bae6f42339b8c67b5176c1aff369528be8260bf1e7feb5b",
+        "width": 738,
+        "height": 414,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          738,
+          414
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:46:53.048Z",
+      "updated_at": "2026-10-29T22:46:56.156Z"
+    },
+    "img-c7c5cf1f74fcbfbf00dc5e9dbf4aef06f5eaa5f0e7a8fa04d39760106d5249e8": {
+      "image_id": "img-c7c5cf1f74fcbfbf00dc5e9dbf4aef06f5eaa5f0e7a8fa04d39760106d5249e8",
+      "filename": "image_0048.jpg",
+      "labels": [
+        "lens_fog_condensation"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 10.260200000047684,
+      "display": {
+        "display_sha256": "2584ea6320887907713791cef66dc4b55fdd4a82cb83e4867a55ed865e44476c",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1067,
+          1600
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:12.265Z",
+      "updated_at": "2026-10-29T22:47:17.791Z"
+    },
+    "img-b3821c019546e903b25aa22dec8cb9b96594674c67b0fa1f94924d681445a9fb": {
+      "image_id": "img-b3821c019546e903b25aa22dec8cb9b96594674c67b0fa1f94924d681445a9fb",
+      "filename": "image_0067.jpg",
+      "labels": [
+        "lens_fog_condensation"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 13.387099999964237,
+      "display": {
+        "display_sha256": "c7ccf9b7debf863b3ecb23656afb9f5b578022e43631f41435e75b06f2bd54ee",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          4000,
+          6000
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:22.839Z",
+      "updated_at": "2026-10-29T22:47:22.839Z"
+    },
+    "img-b612cb635570c9607dbcb1fd1b22b6ff09364fa2bbb5402cbc27aadb416f17da": {
+      "image_id": "img-b612cb635570c9607dbcb1fd1b22b6ff09364fa2bbb5402cbc27aadb416f17da",
+      "filename": "image_0107.jpg",
+      "labels": [
+        "lens_fog_condensation"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.029799999952316,
+      "display": {
+        "display_sha256": "39891e6c46455ad7bb7a41ed08ac06b43aae4ce3ad42a899b297d447ae7ba2a6",
+        "width": 1024,
+        "height": 683,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          683
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:35.034Z",
+      "updated_at": "2026-10-29T22:47:35.034Z"
+    },
+    "img-bf5ba03b6c084e0e8d335bd9c9c6b661952d16341c752f03f7fe7f78a3f31a10": {
+      "image_id": "img-bf5ba03b6c084e0e8d335bd9c9c6b661952d16341c752f03f7fe7f78a3f31a10",
+      "filename": "image_0110.jpg",
+      "labels": [
+        "lens_fog_condensation"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 2.714300000011921,
+      "display": {
+        "display_sha256": "6504707ba8cc0bd8aa629d6644e419377ade850c3a265e9a8996c09f80418dad",
+        "width": 1024,
+        "height": 1024,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          1024
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:37.839Z",
+      "updated_at": "2026-10-29T22:47:37.839Z"
+    },
+    "img-c2c67cc01a0347130f1c09a7e57d73f1eea620ffcbed10efc5e25505814fcf90": {
+      "image_id": "img-c2c67cc01a0347130f1c09a7e57d73f1eea620ffcbed10efc5e25505814fcf90",
+      "filename": "image_0147.jpg",
+      "labels": [
+        "lens_fog_condensation"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.1497999999523163,
+      "display": {
+        "display_sha256": "f4926c39e077cdf1fcc2c190893256fd71ef284db0712629172c1ce26f38f901",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          4000,
+          6000
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:40.779Z",
+      "updated_at": "2026-10-29T22:47:40.779Z"
+    },
+    "img-34dc4d59e00fd7457fca00a07cf29c22edea84067f731683a7d2b5cc120db02b": {
+      "image_id": "img-34dc4d59e00fd7457fca00a07cf29c22edea84067f731683a7d2b5cc120db02b",
+      "filename": "image_0160.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 4.236900000035763,
+      "display": {
+        "display_sha256": "72f12564ffdcd6a9f184e89f93c6d371a3aa812b1e82bcd6f1f4d9456a1cf1ab",
+        "width": 1600,
+        "height": 800,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          4856,
+          2428
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:45.279Z",
+      "updated_at": "2026-10-29T22:47:45.279Z"
+    },
+    "img-2f64aec1de1462cde628e8d8032889505076c8e45ed5e518feeb6a63049bd2d7": {
+      "image_id": "img-2f64aec1de1462cde628e8d8032889505076c8e45ed5e518feeb6a63049bd2d7",
+      "filename": "image_0166.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 4.104399999976158,
+      "display": {
+        "display_sha256": "e9a10219a07857f02a976c0f50f7330a7324f05989901408a58fb2759d6d653c",
+        "width": 275,
+        "height": 183,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          275,
+          183
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:49.239Z",
+      "updated_at": "2026-10-29T22:47:49.239Z"
+    },
+    "img-af88c80d2ff0c343b2c20749f22dd08b90e2442981df74f71ac2b2caf4a0336d": {
+      "image_id": "img-af88c80d2ff0c343b2c20749f22dd08b90e2442981df74f71ac2b2caf4a0336d",
+      "filename": "image_0189.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 4.235099999964238,
+      "display": {
+        "display_sha256": "500324b41216de31f85624db49f75e0d7e6a2d1aee82021816132f880a74fb19",
+        "width": 547,
+        "height": 365,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          547,
+          365
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:53.537Z",
+      "updated_at": "2026-10-29T22:47:53.537Z"
+    },
+    "img-be7bcebf171b93818e1c457e74af0f07902ecb45ae28881d15310a80838b93d3": {
+      "image_id": "img-be7bcebf171b93818e1c457e74af0f07902ecb45ae28881d15310a80838b93d3",
+      "filename": "image_0239.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 5.954499999940396,
+      "display": {
+        "display_sha256": "f422c587469fb1399cd5e4cf7762c97b6c89c0d1593036db5229726434165eb3",
+        "width": 950,
+        "height": 644,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          950,
+          644
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:47:59.349Z",
+      "updated_at": "2026-10-29T22:47:59.349Z"
+    },
+    "img-1f7cf282f508516bd86f85b98d94a3389baa556ba767e4f0fdf9a88b4a8864a0": {
+      "image_id": "img-1f7cf282f508516bd86f85b98d94a3389baa556ba767e4f0fdf9a88b4a8864a0",
+      "filename": "image_0245.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 7.979599999964238,
+      "display": {
+        "display_sha256": "084bbb8d92feac24233c204f8f87d9e3dc2ba25ce7139b9495cec8ec94fdf8e3",
+        "width": 554,
+        "height": 554,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          554,
+          554
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:07.194Z",
+      "updated_at": "2026-10-29T22:48:07.194Z"
+    },
+    "img-8191854a0ba75e6f6ee011f75d294920e4f8238f5964c0ef7b5eb3d3d6032913": {
+      "image_id": "img-8191854a0ba75e6f6ee011f75d294920e4f8238f5964c0ef7b5eb3d3d6032913",
+      "filename": "image_0279.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 7.651100000023842,
+      "display": {
+        "display_sha256": "1c45227b7c42ae2f6967f2c00eb268d0e683876dbc042abf044ce60fa1ac01d7",
+        "width": 1024,
+        "height": 862,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          862
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:15.054Z",
+      "updated_at": "2026-10-29T22:48:15.054Z"
+    },
+    "img-ab4e8db5c97b65df20fabb03a9961b1548c048d70a214fe3bdf0455d2c9854db": {
+      "image_id": "img-ab4e8db5c97b65df20fabb03a9961b1548c048d70a214fe3bdf0455d2c9854db",
+      "filename": "image_0287.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.4261000000238417,
+      "display": {
+        "display_sha256": "71b8e558c398f30d97eaa0e901c15fbc67c880757787e7b21955e38a8d83285c",
+        "width": 1024,
+        "height": 683,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          683
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:18.422Z",
+      "updated_at": "2026-10-29T22:48:18.422Z"
+    },
+    "img-cbcfba1690647427529a5e9fec282d3817ec32ed85ff0767cd4ace7c4809a569": {
+      "image_id": "img-cbcfba1690647427529a5e9fec282d3817ec32ed85ff0767cd4ace7c4809a569",
+      "filename": "image_0302.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 2.8277000000476837,
+      "display": {
+        "display_sha256": "6272913fa8f301e3300a07c7bd7fe43845e217968ef631f2873239bb2c903af5",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          4000,
+          6000
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:21.699Z",
+      "updated_at": "2026-10-29T22:48:21.699Z"
+    },
+    "img-43a7dd6892e019f21f499cc7d957e695c4bff44216e12b3fa6e61f705e20e0c9": {
+      "image_id": "img-43a7dd6892e019f21f499cc7d957e695c4bff44216e12b3fa6e61f705e20e0c9",
+      "filename": "image_0306.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 2.991899999976158,
+      "display": {
+        "display_sha256": "52297f2412906337da1ecf28b3d398ddae6eccc7b03c86d7eb721629f614bc45",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          3849,
+          5774
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:24.610Z",
+      "updated_at": "2026-10-29T22:48:24.610Z"
+    },
+    "img-20f9633d1380f1e029b9b19b86497eea0aeef43f4f1792cd9ce0568f2511135a": {
+      "image_id": "img-20f9633d1380f1e029b9b19b86497eea0aeef43f4f1792cd9ce0568f2511135a",
+      "filename": "image_0330.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 2.6465,
+      "display": {
+        "display_sha256": "7caa3fbae6d60e99a7f24ae64e7f2df5bdd967202c4a9d4bde0c6125ae9859fb",
+        "width": 1024,
+        "height": 683,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          683
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:27.295Z",
+      "updated_at": "2026-10-29T22:48:27.295Z"
+    },
+    "img-5e6e918200c84cf47ee3baad69e97028cfb527e98930cfcd56c697de1dc0dfbe": {
+      "image_id": "img-5e6e918200c84cf47ee3baad69e97028cfb527e98930cfcd56c697de1dc0dfbe",
+      "filename": "image_0375.jpeg",
+      "labels": [
+        "physical_obstruction"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.569699999988079,
+      "display": {
+        "display_sha256": "2a9c0cc82f36e9a2b9854db436f50d872ee42424ea636f4f8d02015d1c757a48",
+        "width": 1200,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "MPO",
+        "source_size": [
+          4032,
+          3024
+        ],
+        "source_frames": 2
+      },
+      "started_at": "2026-10-29T22:48:30.633Z",
+      "updated_at": "2026-10-29T22:48:30.633Z"
+    },
+    "img-d0270cf655b7d0272574772bf117896f22f39b3f9b0498a87207dbb890b5cbc3": {
+      "image_id": "img-d0270cf655b7d0272574772bf117896f22f39b3f9b0498a87207dbb890b5cbc3",
+      "filename": "image_0381.jpeg",
+      "labels": [
+        "lens_contamination",
+        "physical_obstruction"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 5.8505,
+      "display": {
+        "display_sha256": "ad917d1afb1cd728a85be307c644b9356106b8462a99cc3ee38bb1c1551bd03f",
+        "width": 1200,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "MPO",
+        "source_size": [
+          4032,
+          3024
+        ],
+        "source_frames": 2
+      },
+      "started_at": "2026-10-29T22:48:35.005Z",
+      "updated_at": "2026-10-29T22:48:36.182Z"
+    },
+    "img-9ead22bedd963358f1206d4da3e76a38d350b59e17507f9f27ac6b74b546b5a4": {
+      "image_id": "img-9ead22bedd963358f1206d4da3e76a38d350b59e17507f9f27ac6b74b546b5a4",
+      "filename": "image_0403.jpg",
+      "labels": [
+        "lens_contamination"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 8.414099999964236,
+      "display": {
+        "display_sha256": "2130e53cfb783e838df005979a8c5e1a22ea00d7da41236f63016809148a9c40",
+        "width": 1600,
+        "height": 1161,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          3021,
+          2192
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:45.137Z",
+      "updated_at": "2026-10-29T22:48:45.137Z"
+    },
+    "img-a916992d1baef18dea4e7843df621b192cb609496493df388e1f5500e36edaf2": {
+      "image_id": "img-a916992d1baef18dea4e7843df621b192cb609496493df388e1f5500e36edaf2",
+      "filename": "image_0458.jpg",
+      "labels": [
+        "lens_contamination"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 4.004800000011921,
+      "display": {
+        "display_sha256": "b9fcb0844d5fd58889942671acaa5751226b503d8238ac611c10bb40d3a99b74",
+        "width": 1024,
+        "height": 768,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          768
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:48.782Z",
+      "updated_at": "2026-10-29T22:48:48.782Z"
+    },
+    "img-0c83d3aef3d64b2824d3656a612cdbd95051dc2cdc43931158ed3e623ab929fc": {
+      "image_id": "img-0c83d3aef3d64b2824d3656a612cdbd95051dc2cdc43931158ed3e623ab929fc",
+      "filename": "image_0486.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 4.079300000011921,
+      "display": {
+        "display_sha256": "63545f858670d539e30fb13f1bf13f53cad5b3d66eb83f94c007b3064b7c0754",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          4160,
+          6240
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:52.907Z",
+      "updated_at": "2026-10-29T22:48:52.907Z"
+    },
+    "img-60ce5f22c7e86088601daef5cc68fd87979e09ad8f0838b84f709c594644c691": {
+      "image_id": "img-60ce5f22c7e86088601daef5cc68fd87979e09ad8f0838b84f709c594644c691",
+      "filename": "image_0517.webp",
+      "labels": [
+        "lens_contamination",
+        "physical_obstruction"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 5.6844000000357635,
+      "display": {
+        "display_sha256": "9dd9d5ae47e23b66f634e6767dd6b1c71c9bc968015f54d3dae2ea0b87da5109",
+        "width": 1600,
+        "height": 1200,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "WEBP",
+        "source_size": [
+          4032,
+          3024
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:48:57.197Z",
+      "updated_at": "2026-10-29T22:48:58.487Z"
+    },
+    "img-4d0f744e8a21889b62b537d27fce363406d894556ea385b94fba195c67b8aded": {
+      "image_id": "img-4d0f744e8a21889b62b537d27fce363406d894556ea385b94fba195c67b8aded",
+      "filename": "image_0571.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.322,
+      "display": {
+        "display_sha256": "4d69973eb8e4e130038ec961f5dd9096784fffe7581e07bcb0cb51bba9d8fa87",
+        "width": 547,
+        "height": 365,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          547,
+          365
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:02.088Z",
+      "updated_at": "2026-10-29T22:49:02.088Z"
+    },
+    "img-253a456e10eb0feebd93c837a7ad399282aa30f6ad9878cb1b1630ef61fa4527": {
+      "image_id": "img-253a456e10eb0feebd93c837a7ad399282aa30f6ad9878cb1b1630ef61fa4527",
+      "filename": "image_0573.jpg",
+      "labels": [],
+      "artifact_judgment": "uncertain",
+      "status": "annotated",
+      "active_seconds": 4.769599999964237,
+      "display": {
+        "display_sha256": "704e83153e081aecd0ef81d7559aff6d19b70fda6ee6296220b33a1b81f98ddb",
+        "width": 1185,
+        "height": 980,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1185,
+          980
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:06.865Z",
+      "updated_at": "2026-10-29T22:49:06.865Z"
+    },
+    "img-06e78b68611e0cc8fe7a7709ea6c882a8b66bdbed4e1ffc18f69c17b10ea547b": {
+      "image_id": "img-06e78b68611e0cc8fe7a7709ea6c882a8b66bdbed4e1ffc18f69c17b10ea547b",
+      "filename": "image_0605.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.4871999999880794,
+      "display": {
+        "display_sha256": "86bbd90c0ae5bf0a28442e74632d4d6537ab7828ce3cc94ef5fea7789175a4c2",
+        "width": 1024,
+        "height": 768,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          768
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:10.068Z",
+      "updated_at": "2026-10-29T22:49:10.068Z"
+    },
+    "img-6f8a8ab29f57f93e3bc29bd9a5c9f6facff40a847f7b45bd7e91a1498eeb820d": {
+      "image_id": "img-6f8a8ab29f57f93e3bc29bd9a5c9f6facff40a847f7b45bd7e91a1498eeb820d",
+      "filename": "image_0624.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.0088999999761583,
+      "display": {
+        "display_sha256": "c043d3c1ec0d8de05fce8a03aaf1bf7f2eb703b1514d57501da3b9748fe6fbd9",
+        "width": 1024,
+        "height": 683,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          683
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:13.390Z",
+      "updated_at": "2026-10-29T22:49:13.390Z"
+    },
+    "img-8aa5cd8d82f23b088ffc2345eb58deefa708cc1afe77e4a4c4d398678ff47119": {
+      "image_id": "img-8aa5cd8d82f23b088ffc2345eb58deefa708cc1afe77e4a4c4d398678ff47119",
+      "filename": "image_0657.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.875300000011921,
+      "display": {
+        "display_sha256": "de1e6461c726bc9e3517f206c573b067ab2c8a50bd7dc00c7337e9960014128c",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          3000,
+          4500
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:16.345Z",
+      "updated_at": "2026-10-29T22:49:16.345Z"
+    },
+    "img-084dffb1b7abe30fb1bf7adfd051df48d1cf1a50c1f1637cad8ba157af08830b": {
+      "image_id": "img-084dffb1b7abe30fb1bf7adfd051df48d1cf1a50c1f1637cad8ba157af08830b",
+      "filename": "image_0669.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.359399999976158,
+      "display": {
+        "display_sha256": "3a269822a8deba7a010f635bcaf748373b193ae5309da4c55207ced5e14259f8",
+        "width": 1199,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          2637,
+          3519
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:20.517Z",
+      "updated_at": "2026-10-29T22:49:20.517Z"
+    },
+    "img-e3aa95fdfcc3399d220802214706e6ddeb6f6692453558a40334c6ed9cf16e5e": {
+      "image_id": "img-e3aa95fdfcc3399d220802214706e6ddeb6f6692453558a40334c6ed9cf16e5e",
+      "filename": "image_0674.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.659900000035763,
+      "display": {
+        "display_sha256": "d7e1b95663851f8ce018f7772d5cc32a1c58f8f3bd5b465fb3197a400c41c71c",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          4342,
+          6514
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:24.085Z",
+      "updated_at": "2026-10-29T22:49:24.085Z"
+    },
+    "img-980325055835d736fc31053f05b05f1a8e2150507447c55f0b99ed2a61efbbf0": {
+      "image_id": "img-980325055835d736fc31053f05b05f1a8e2150507447c55f0b99ed2a61efbbf0",
+      "filename": "image_0684.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 2.812,
+      "display": {
+        "display_sha256": "cbc9cfe79ebc73d05fbc1f13c14844f64111c2e0fef66836a711a85afa37c72c",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          3840,
+          5760
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:27.025Z",
+      "updated_at": "2026-10-29T22:49:27.025Z"
+    },
+    "img-ef697c62434666becae9514022c6b8b7e66d1fac54fc20aa607f18d8dd118a38": {
+      "image_id": "img-ef697c62434666becae9514022c6b8b7e66d1fac54fc20aa607f18d8dd118a38",
+      "filename": "image_0690.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.066899999976158,
+      "display": {
+        "display_sha256": "2131fce3bae2e0b81fbbed2716f2d2849cd95915dd859a9d291d0c0fc069bef3",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          4160,
+          6240
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:30.063Z",
+      "updated_at": "2026-10-29T22:49:30.063Z"
+    },
+    "img-5885cc5dced3dab89d9842cd18ddb68b47051e697df7667009bb3c0441b4ff2a": {
+      "image_id": "img-5885cc5dced3dab89d9842cd18ddb68b47051e697df7667009bb3c0441b4ff2a",
+      "filename": "image_0705.jpeg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 4.229600000023842,
+      "display": {
+        "display_sha256": "b67e6c669779945c7e1c913b0d27d19baaf1bc62ea2643322ccb59924d3e6321",
+        "width": 1200,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "MPO",
+        "source_size": [
+          5712,
+          4284
+        ],
+        "source_frames": 2
+      },
+      "started_at": "2026-10-29T22:49:33.978Z",
+      "updated_at": "2026-10-29T22:49:33.978Z"
+    },
+    "img-2f26319bc81880749fc4a73d9c623ae457bed13b69c90f51732e889858bb7226": {
+      "image_id": "img-2f26319bc81880749fc4a73d9c623ae457bed13b69c90f51732e889858bb7226",
+      "filename": "image_0713.jpeg",
+      "labels": [
+        "physical_obstruction"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 4.036300000011921,
+      "display": {
+        "display_sha256": "21a853fbc378b40861ff3feb5e96d7317548f534e7bc8027878259e6fe65bfa3",
+        "width": 1200,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "MPO",
+        "source_size": [
+          4032,
+          3024
+        ],
+        "source_frames": 2
+      },
+      "started_at": "2026-10-29T22:49:38.230Z",
+      "updated_at": "2026-10-29T22:49:38.230Z"
+    },
+    "img-cba44984df41665b832b7e77c8a029383f698ee2fd8dbacb84ada81a46182bc8": {
+      "image_id": "img-cba44984df41665b832b7e77c8a029383f698ee2fd8dbacb84ada81a46182bc8",
+      "filename": "image_0721.jpeg",
+      "labels": [
+        "physical_obstruction"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 4.9399999999999995,
+      "display": {
+        "display_sha256": "3030ad865b56a85505b95e45a0f8578a721adfe6df613f41f6cb90ed4fd07bcd",
+        "width": 1200,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "MPO",
+        "source_size": [
+          4032,
+          3024
+        ],
+        "source_frames": 2
+      },
+      "started_at": "2026-10-29T22:49:43.360Z",
+      "updated_at": "2026-10-29T22:49:43.360Z"
+    },
+    "img-115904c12f7cf761bd40579ce3209bbf4285262fc6e924bb7784e1123521981a": {
+      "image_id": "img-115904c12f7cf761bd40579ce3209bbf4285262fc6e924bb7784e1123521981a",
+      "filename": "image_0749.jpg",
+      "labels": [
+        "physical_obstruction"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 5.438799999952316,
+      "display": {
+        "display_sha256": "f1a0dde836bacf0a0cc1ae3f1907f88e14d7696833917e8eab8303e6110133b5",
+        "width": 1024,
+        "height": 576,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          576
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:48.626Z",
+      "updated_at": "2026-10-29T22:49:48.626Z"
+    },
+    "img-2962d3246e30567304c551ca03d30e1c3c073453b89369a293c2b38e3b06236c": {
+      "image_id": "img-2962d3246e30567304c551ca03d30e1c3c073453b89369a293c2b38e3b06236c",
+      "filename": "image_0768.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 4.2728999999761585,
+      "display": {
+        "display_sha256": "07bee66df58b61dd83a7cbeadd5db13ff266c6f8f63ed846d4fbcb9219a2a8f1",
+        "width": 900,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1170,
+          2080
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:52.788Z",
+      "updated_at": "2026-10-29T22:49:52.788Z"
+    },
+    "img-2ba74cfe6ad1b3a7aa583f16b05e7088ec9af79059bfef22218459c9bca2a318": {
+      "image_id": "img-2ba74cfe6ad1b3a7aa583f16b05e7088ec9af79059bfef22218459c9bca2a318",
+      "filename": "image_0802.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 4.027199999988079,
+      "display": {
+        "display_sha256": "61ccf79c0486ee1ee71766040d0c0e8f5cec138998f7fc6ca28fb28b3e22d05f",
+        "width": 1024,
+        "height": 768,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          768
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:49:57.027Z",
+      "updated_at": "2026-10-29T22:49:57.027Z"
+    },
+    "img-fda7ffe21c4cfa51c1368b185d10b746fe17510349ac11c36504bd4ecebc69e3": {
+      "image_id": "img-fda7ffe21c4cfa51c1368b185d10b746fe17510349ac11c36504bd4ecebc69e3",
+      "filename": "image_0805.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 3.0896000000238417,
+      "display": {
+        "display_sha256": "7c1ba701ae32d1f37886605fca14b80a982a144e08027c85bc59da56bfd4b70c",
+        "width": 1024,
+        "height": 768,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1024,
+          768
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:00.004Z",
+      "updated_at": "2026-10-29T22:50:00.004Z"
+    },
+    "img-39a9388ca834ea01f69a9b6fa1be31250dc6bf4c9bc5964838c98d0b76ee1aec": {
+      "image_id": "img-39a9388ca834ea01f69a9b6fa1be31250dc6bf4c9bc5964838c98d0b76ee1aec",
+      "filename": "image_0853.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 2.879700000047684,
+      "display": {
+        "display_sha256": "12c9c22087d8499f4ccaae7095bb1659553ba30e5ab047bc406d59df0635217d",
+        "width": 900,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1080,
+          1920
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:03.116Z",
+      "updated_at": "2026-10-29T22:50:03.116Z"
+    },
+    "img-0b5f6f6e253822c029b5c46a2ec59730394a2d5bfdae4e66363c92ece738a7ca": {
+      "image_id": "img-0b5f6f6e253822c029b5c46a2ec59730394a2d5bfdae4e66363c92ece738a7ca",
+      "filename": "image_0917.heic",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 2.758800000011921,
+      "display": {
+        "display_sha256": "e53bd8bcdf79c00bb13304e708457f5f329ba5f1f3a4937c96eb8e6f3a75f5ad",
+        "width": 1200,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "HEIF",
+        "source_size": [
+          3024,
+          4032
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:05.862Z",
+      "updated_at": "2026-10-29T22:50:05.862Z"
+    },
+    "img-96eee04e3357172dc90dfe102bc8b7c54b6f2105e78d6e2a5609de468edfbd79": {
+      "image_id": "img-96eee04e3357172dc90dfe102bc8b7c54b6f2105e78d6e2a5609de468edfbd79",
+      "filename": "image_0954.jpeg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 3.1954000000357627,
+      "display": {
+        "display_sha256": "ab45290ce672c324f8b672b2e4b353b60b6b8ec48e0022887076ad165293ca8a",
+        "width": 543,
+        "height": 565,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          543,
+          565
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:08.891Z",
+      "updated_at": "2026-10-29T22:50:08.891Z"
+    },
+    "img-e64830b65389ab9738bf406bd68987f45de36cdd23b9acde66c69472a4b8aa37": {
+      "image_id": "img-e64830b65389ab9738bf406bd68987f45de36cdd23b9acde66c69472a4b8aa37",
+      "filename": "image_0963.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 5.257099999964237,
+      "display": {
+        "display_sha256": "a63e2e18ec28abf8821271fe4665cd78e4dd0f969d6c240ab1ae0c0878738b24",
+        "width": 225,
+        "height": 225,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          225,
+          225
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:14.253Z",
+      "updated_at": "2026-10-29T22:50:14.253Z"
+    },
+    "img-6080145736d25f0871930de1d5b25403615dde1a2661cabf15eab3cfbdffa155": {
+      "image_id": "img-6080145736d25f0871930de1d5b25403615dde1a2661cabf15eab3cfbdffa155",
+      "filename": "image_0965.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 2.639199999988079,
+      "display": {
+        "display_sha256": "0f5519db4b20058d3b29c43aa7cf9fbdc57438b09c34090b744ac4b3ea239480",
+        "width": 452,
+        "height": 678,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          452,
+          678
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:16.969Z",
+      "updated_at": "2026-10-29T22:50:16.969Z"
+    },
+    "img-1da7299165fae1a148da031e5e61c100c07b1946d0f4bce1b285a5df52d62d5b": {
+      "image_id": "img-1da7299165fae1a148da031e5e61c100c07b1946d0f4bce1b285a5df52d62d5b",
+      "filename": "image_0968.jpeg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 3.6988000000119206,
+      "display": {
+        "display_sha256": "8a7ac65cdf690da0b0808e34026f28fc2f23a5f416ffa7d8ea2c878ac7edb26f",
+        "width": 480,
+        "height": 640,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          480,
+          640
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:20.118Z",
+      "updated_at": "2026-10-29T22:50:20.118Z"
+    },
+    "img-70a11be397318fb560981b9e49739aa23f7c2d48fc5a539df2338cc1f7930ea0": {
+      "image_id": "img-70a11be397318fb560981b9e49739aa23f7c2d48fc5a539df2338cc1f7930ea0",
+      "filename": "image_1001.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 5.765499999999999,
+      "display": {
+        "display_sha256": "47db2ba26b55cbd00eddbf61ff854cc636376e97b5459f95b4d970a08287f3c2",
+        "width": 1066,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1706,
+          2560
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:25.668Z",
+      "updated_at": "2026-10-29T22:50:25.668Z"
+    },
+    "img-ee6e3f504c69affe8af28a3fcae03e554b513a36619d83cf014845cac2ed00d2": {
+      "image_id": "img-ee6e3f504c69affe8af28a3fcae03e554b513a36619d83cf014845cac2ed00d2",
+      "filename": "image_1024.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 3.1721000000238417,
+      "display": {
+        "display_sha256": "e214b21b1951313d2a77fb63e2d8d7151ec35b45bf1da7aab0f745b53a5725a3",
+        "width": 1600,
+        "height": 864,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          1920,
+          1037
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:29.434Z",
+      "updated_at": "2026-10-29T22:50:29.434Z"
+    },
+    "img-d5ba9becd70466b0c864f850102fe0db2aa2e2aa34a4f943c85754d219162244": {
+      "image_id": "img-d5ba9becd70466b0c864f850102fe0db2aa2e2aa34a4f943c85754d219162244",
+      "filename": "image_1056.jpg",
+      "labels": [
+        "exposure_fault"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 3.7121000000238418,
+      "display": {
+        "display_sha256": "71011387475073f3c978cdda8583742a7830305c0509f4296432985a434907f3",
+        "width": 1600,
+        "height": 1067,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          5616,
+          3744
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:32.493Z",
+      "updated_at": "2026-10-29T22:50:32.493Z"
+    },
+    "img-72c4a52e77171b699d734c4eeb95e0c2dbc73fdaa910802781867f34ea2651fa": {
+      "image_id": "img-72c4a52e77171b699d734c4eeb95e0c2dbc73fdaa910802781867f34ea2651fa",
+      "filename": "image_1087.jpg",
+      "labels": [],
+      "artifact_judgment": "none",
+      "status": "annotated",
+      "active_seconds": 4.086899999976159,
+      "display": {
+        "display_sha256": "f59f05f1869b483ac4091ad1a71e6a97c395dcb38aef60201c69f1647eac827f",
+        "width": 250,
+        "height": 250,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          250,
+          250
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:37.129Z",
+      "updated_at": "2026-10-29T22:50:37.129Z"
+    },
+    "img-a08145569320cf1bb58aa3e7d4eefaf212ad2cabed54852fd96394f4ef12f716": {
+      "image_id": "img-a08145569320cf1bb58aa3e7d4eefaf212ad2cabed54852fd96394f4ef12f716",
+      "filename": "image_1108.jpg",
+      "labels": [
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 6.052200000047684,
+      "display": {
+        "display_sha256": "b42186a298c6247f8287e1f21b43a6c04e0600f8100fb44d3c0a26d9b0fe789d",
+        "width": 1069,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          2727,
+          4083
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:43.459Z",
+      "updated_at": "2026-10-29T22:50:43.459Z"
+    },
+    "img-e441b5cd1411e8fef3e7725a5b80bb876ed6d63a28135148130df04c5daa736e": {
+      "image_id": "img-e441b5cd1411e8fef3e7725a5b80bb876ed6d63a28135148130df04c5daa736e",
+      "filename": "image_1146.jpg",
+      "labels": [
+        "exposure_fault",
+        "optical_motion_blur"
+      ],
+      "artifact_judgment": "present",
+      "status": "annotated",
+      "active_seconds": 7.409800000011922,
+      "display": {
+        "display_sha256": "68da35fc0f4f1d0ba5b8cd9b56d8fb340d4cd92ee4fe19c749bef245967de15d",
+        "width": 1067,
+        "height": 1600,
+        "profile": {
+          "format": "webp",
+          "max_edge": 1600,
+          "quality": 95,
+          "method": 6,
+          "orientation": "exif_transpose",
+          "frame": 0
+        },
+        "source_format": "JPEG",
+        "source_size": [
+          3072,
+          4608
+        ],
+        "source_frames": 1
+      },
+      "started_at": "2026-10-29T22:50:47.060Z",
+      "updated_at": "2026-10-29T22:50:48.853Z"
+    }
+  },
+  "answers_digest": "b91ba4473c45edc0ce84d8407cd9719998d164e212505a975d760d72ab83775e",
+  "submitted_at": "2026-10-29T22:50:50.995171+00:00"
+}
