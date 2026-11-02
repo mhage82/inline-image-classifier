@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "summary": {
-    "raw_file_count": 27,
-    "submission_count": 27,
-    "annotation_count": 1350,
-    "unique_image_count": 1090,
+    "raw_file_count": 28,
+    "submission_count": 28,
+    "annotation_count": 1400,
+    "unique_image_count": 1130,
     "images_with_multiple_annotations": 10,
     "submissions_per_dataset": {
-      "study-f910f839701b6cf92926": 27
+      "study-f910f839701b6cf92926": 28
     }
   },
   "submissions": [
@@ -413,6 +413,21 @@
       "submitted_at": "2026-11-02T19:38:31.345410+00:00",
       "source_files": [
         "group-27_5647d46e5e3d624acfb2.json"
+      ],
+      "annotation_count": 50
+    },
+    {
+      "schema_version": 1,
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "guidelines_version": "2.0",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "answers_digest": "4179890c00da7c09cc3227f5a162601f59c63b22e068c30cd4dcc22e48c52970",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "source_files": [
+        "group-28_8a5172feae9d13c933c3.json"
       ],
       "annotation_count": 50
     }
@@ -53197,6 +53212,1952 @@
         },
         "started_at": "2026-11-02T19:37:55.330Z",
         "updated_at": "2026-11-02T19:37:55.330Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-061fa2f286650f5fce49bbc460a12c6a123ace0b6cd95ead5ab85ccd3970c418",
+        "filename": "image_0080.jpg",
+        "labels": [
+          "lens_contamination"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 4.133,
+        "display": {
+          "display_sha256": "5ce2591efd2c563e6c2f817b7049fe05f5e6afee2f66d5e1055fea7780392bf6",
+          "width": 501,
+          "height": 399,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            501,
+            399
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:38:46.479Z",
+        "updated_at": "2026-11-02T19:38:46.479Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-0b5f6f6e253822c029b5c46a2ec59730394a2d5bfdae4e66363c92ece738a7ca",
+        "filename": "image_0917.heic",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.2825999999996274,
+        "display": {
+          "display_sha256": "e53bd8bcdf79c00bb13304e708457f5f329ba5f1f3a4937c96eb8e6f3a75f5ad",
+          "width": 1200,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "HEIF",
+          "source_size": [
+            3024,
+            4032
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:18.046Z",
+        "updated_at": "2026-11-02T19:40:18.046Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-115904c12f7cf761bd40579ce3209bbf4285262fc6e924bb7784e1123521981a",
+        "filename": "image_0749.jpg",
+        "labels": [
+          "physical_obstruction"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 1.9482000000011177,
+        "display": {
+          "display_sha256": "f1a0dde836bacf0a0cc1ae3f1907f88e14d7696833917e8eab8303e6110133b5",
+          "width": 1024,
+          "height": 576,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1024,
+            576
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:10.528Z",
+        "updated_at": "2026-11-02T19:40:10.528Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-12727d9f7168a5f1437f55f48b6302c19032178f603df066f49610ef0f91de7e",
+        "filename": "image_1163.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 23.950000000000003,
+        "display": {
+          "display_sha256": "b10cd8f59fffd11b9b4870c6436174bfcd2e93fb6f57a1a98ed41a00957dbe0b",
+          "width": 1067,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            5152,
+            7728
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:41:16.529Z",
+        "updated_at": "2026-11-02T19:41:16.529Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-1305486ff1b39cb2e7f8c071febcce90ebe106c786a188573ae171b7a1d678f4",
+        "filename": "image_0364.jpeg",
+        "labels": [
+          "lens_contamination"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.34960000000149,
+        "display": {
+          "display_sha256": "8050b04f9cd7ecfffc17d224bef3eb07f670a4a79d214eb1d7d917aaf93ce678",
+          "width": 1200,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "MPO",
+          "source_size": [
+            4032,
+            3024
+          ],
+          "source_frames": 2
+        },
+        "started_at": "2026-11-02T19:39:23.030Z",
+        "updated_at": "2026-11-02T19:39:23.030Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-14886007f51da5f66edbc1788f08467bc78456bae7baa4d4f5c67a9e4e5cbc7a",
+        "filename": "image_0961.jpeg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 3.0495,
+        "display": {
+          "display_sha256": "5fd8868b5153ed258725845c72f6d29c7587433a6811d7b1ff2ced42a55b1491",
+          "width": 365,
+          "height": 547,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            365,
+            547
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:28.946Z",
+        "updated_at": "2026-11-02T19:40:28.946Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-16c23238d24169b6b974357a867b1e8989187cd97f246f9ad5b6f648738917b9",
+        "filename": "image_0522.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 5.066599999999628,
+        "display": {
+          "display_sha256": "84d058e130536336da58a3cf112a799b22b300baecbad4223db6f5b9a9ccff9c",
+          "width": 1600,
+          "height": 1067,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "MPO",
+          "source_size": [
+            6000,
+            4000
+          ],
+          "source_frames": 3
+        },
+        "started_at": "2026-11-02T19:39:40.596Z",
+        "updated_at": "2026-11-02T19:39:40.596Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-218ffa091d6660b3d0ce1c9284414d56dcfe9a8bcf289d8078397ad20fa9496f",
+        "filename": "image_0363.jpeg",
+        "labels": [
+          "lens_contamination"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.9161999999992547,
+        "display": {
+          "display_sha256": "871b807271465029c3e3fb142dac23124e2ad8654dae4846e283a80244640c2a",
+          "width": 1200,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "MPO",
+          "source_size": [
+            4032,
+            3024
+          ],
+          "source_frames": 2
+        },
+        "started_at": "2026-11-02T19:39:20.729Z",
+        "updated_at": "2026-11-02T19:39:20.729Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-2504793eeb3ba75a93535495ccfd5ff99b74c65f4021ddf13e3922380e8ad5b2",
+        "filename": "image_0816.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 1.966,
+        "display": {
+          "display_sha256": "33a326dcea214c8b9db6ac3c3b8f6cd676ae2400610cd9e5dcf8b44990142c57",
+          "width": 683,
+          "height": 1024,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            683,
+            1024
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:16.262Z",
+        "updated_at": "2026-11-02T19:40:16.262Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-266d71d281ae9bf273c09be010e52d0f46ee72c63d32696830afcd7b4f677806",
+        "filename": "image_0526.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.483,
+        "display": {
+          "display_sha256": "062993a0c2c9802618d976e953d6ea23b3d2fdbea44e13a549546456947d8054",
+          "width": 1600,
+          "height": 1067,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "MPO",
+          "source_size": [
+            6000,
+            4000
+          ],
+          "source_frames": 3
+        },
+        "started_at": "2026-11-02T19:39:43.247Z",
+        "updated_at": "2026-11-02T19:39:43.247Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-2a2c845c6a08e92808de7ffe410f412edb812e9511d7d04fbd61fb103647f39e",
+        "filename": "image_1133.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.465199999999255,
+        "display": {
+          "display_sha256": "345a6a9064b88c4c7717c0482cf574e51d3b34a7f97d17a83c4e7b55557cef1e",
+          "width": 1067,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            4640,
+            6960
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:52.980Z",
+        "updated_at": "2026-11-02T19:40:52.980Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-2c511ebd24a2734700f5447a14ab27a89908a4c0981e1d544e51ae7788877094",
+        "filename": "image_0585.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.7500999999996276,
+        "display": {
+          "display_sha256": "fac987d47f9f98519d7b43d859000d48eb78d050e41da5fe130329e5a8377ee7",
+          "width": 1024,
+          "height": 464,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1024,
+            464
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:53.379Z",
+        "updated_at": "2026-11-02T19:39:53.379Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-2f5f7566afadb85438a7741a51ac57d2841c12328458a612c7d2998eb5b660f4",
+        "filename": "image_0414.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.0495,
+        "display": {
+          "display_sha256": "fb23accc54d58bb009af032a41b3b64e1953cc5e3e5432695c5866985dfed40a",
+          "width": 683,
+          "height": 1024,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            683,
+            1024
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:27.363Z",
+        "updated_at": "2026-11-02T19:39:27.363Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-3f8888a6d2b7dfd53d59c43fa359f9c74e8032f72c09d8aa39a76a5851062a53",
+        "filename": "image_0177.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 3.2160999999996274,
+        "display": {
+          "display_sha256": "1053b89479e7be356eab2a75376a76af48d50c7ab25e6f6958c0f1dbbfa22902",
+          "width": 738,
+          "height": 414,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            738,
+            414
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:38:54.497Z",
+        "updated_at": "2026-11-02T19:38:54.497Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-427f3d94e612845dc968fdc6963e394e93b3094f900c8fdcf61ae5cc123344f8",
+        "filename": "image_0972.jpeg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.1815999999996274,
+        "display": {
+          "display_sha256": "fbfa27c345b83e0e0b54c3f000e75abb202b37f7558cb7fba211ab740dfc170f",
+          "width": 1200,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "MPO",
+          "source_size": [
+            4032,
+            3024
+          ],
+          "source_frames": 2
+        },
+        "started_at": "2026-11-02T19:40:33.746Z",
+        "updated_at": "2026-11-02T19:40:33.746Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-4307b64eebb0a0ed8b1a4ce8ea82dd7bd9030a304dd76aa1a81197d924a26c48",
+        "filename": "image_0356.jpeg",
+        "labels": [
+          "lens_contamination"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.8655999999996276,
+        "display": {
+          "display_sha256": "272e40e503915f1a390b7c2efadfb9df1541c38c98cbd7d14636257ce7a6a317",
+          "width": 1200,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "MPO",
+          "source_size": [
+            4032,
+            3024
+          ],
+          "source_frames": 2
+        },
+        "started_at": "2026-11-02T19:39:17.797Z",
+        "updated_at": "2026-11-02T19:39:17.797Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-4d0f744e8a21889b62b537d27fce363406d894556ea385b94fba195c67b8aded",
+        "filename": "image_0571.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.0829000000003726,
+        "display": {
+          "display_sha256": "4d69973eb8e4e130038ec961f5dd9096784fffe7581e07bcb0cb51bba9d8fa87",
+          "width": 547,
+          "height": 365,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            547,
+            365
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:51.163Z",
+        "updated_at": "2026-11-02T19:39:51.163Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-5aa621aa75687cd61f1c2e60c65a977f1c2354c2099a2c60a22681e8f04f43bd",
+        "filename": "image_0071.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.466,
+        "display": {
+          "display_sha256": "b159fd156de45795a30dfc2a853edecc567574930e6482124a0950ecc9dff04f",
+          "width": 1070,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1156,
+            1729
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:38:42.230Z",
+        "updated_at": "2026-11-02T19:38:42.230Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-5dc07eb6d0654c03e04644498b2e75266760ce31770da9afed97cbe621d92b01",
+        "filename": "image_1104.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.4661999999992545,
+        "display": {
+          "display_sha256": "c8ef7da9734368d642dae60fc96edb8886a7abad60385c3b2beb633b4e2f5b4a",
+          "width": 1067,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            4000,
+            6000
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:44.897Z",
+        "updated_at": "2026-11-02T19:40:44.897Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-62fdc9a2d2d58dce1c920d0cd25a8f6c949db949fc5af5142809ffccca660237",
+        "filename": "image_0151.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.9667000000011177,
+        "display": {
+          "display_sha256": "8d0a9cefeb6d1cbb25acf74d2a421df49fb054f77b5738128cc10bb483459fab",
+          "width": 1200,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            2782,
+            3710
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:38:51.329Z",
+        "updated_at": "2026-11-02T19:38:51.329Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-68a30cad14a35e92629f43c46db3616f5ad35e0341a321c76c733735b24258dd",
+        "filename": "image_0021.jpg",
+        "labels": [
+          "lens_fog_condensation"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 3.04,
+        "display": {
+          "display_sha256": "a5fabf383ca325737aba3a9018170d4d5792aeeed976b76de04d003ffe43d8b5",
+          "width": 738,
+          "height": 414,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            738,
+            414
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:38:39.613Z",
+        "updated_at": "2026-11-02T19:38:39.613Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-714190826b5ba3a8590ab4b599cb639021d4cd91c1a361f800036f164be1abfd",
+        "filename": "image_1176.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 3.2165,
+        "display": {
+          "display_sha256": "a17326be2325713c7951010e2d27357c7422160f2784ff0bd9720e33721d61d8",
+          "width": 1067,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            4000,
+            6000
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:41:19.063Z",
+        "updated_at": "2026-11-02T19:41:19.063Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-76ba57196a10e60f715967c61dc88de3af6e4c7b869c9f72c82939e78554844d",
+        "filename": "image_0397.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.348,
+        "display": {
+          "display_sha256": "eececfbdcb95404be35215d8dd3899af72d1657f34d7222839d47923401cdd2b",
+          "width": 1024,
+          "height": 683,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1024,
+            683
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:25.379Z",
+        "updated_at": "2026-11-02T19:39:25.379Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-788fd68fa1248cc758561128860c7e23f2e74fc4ae58ff5bba89c89613d262f6",
+        "filename": "image_0333.jpg",
+        "labels": [
+          "exposure_fault"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 4.2150999999996275,
+        "display": {
+          "display_sha256": "c356e25eb2e2c7008d4d8ed625dfa7099c8f43011c9a8c368ec1a0b82f790332",
+          "width": 1024,
+          "height": 840,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1024,
+            840
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:09.063Z",
+        "updated_at": "2026-11-02T19:39:09.063Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-7a2f0f64bc953f616a4c781600eece4ee53ba7093dd872d2a1f4e494804dd8f8",
+        "filename": "image_0646.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 4.61539999999851,
+        "display": {
+          "display_sha256": "2f8bbe4f88feece646af7430a33fa07fb66c7ef160cbca0fff34428a90196fe8",
+          "width": 1280,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            3597,
+            4496
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:02.946Z",
+        "updated_at": "2026-11-02T19:40:03.663Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-7a7d1dd1687831cfbca556b9ca904965a44bf0a1ad65dab8a456ea3ce85335c1",
+        "filename": "image_0929.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.6323999999985097,
+        "display": {
+          "display_sha256": "d7116a276e60ece0a4a55cf6b14fa93128615be1bfda6849b0b4471dc2aa7f47",
+          "width": 1344,
+          "height": 896,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1344,
+            896
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:25.529Z",
+        "updated_at": "2026-11-02T19:40:25.529Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-8191854a0ba75e6f6ee011f75d294920e4f8238f5964c0ef7b5eb3d3d6032913",
+        "filename": "image_0279.jpg",
+        "labels": [
+          "exposure_fault"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 3.250299999998882,
+        "display": {
+          "display_sha256": "1c45227b7c42ae2f6967f2c00eb268d0e683876dbc042abf044ce60fa1ac01d7",
+          "width": 1024,
+          "height": 862,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1024,
+            862
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:38:56.946Z",
+        "updated_at": "2026-11-02T19:38:56.946Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-822cf0a5a78105dbceb9562b2ceb9f11d3189d5a9aa5b806a000ba60fc59200b",
+        "filename": "image_0304.jpg",
+        "labels": [
+          "exposure_fault"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.08289999999851,
+        "display": {
+          "display_sha256": "ed9375ec71727fe74a0d7c21de0af3918168728ea39d699ecff8b334515acdc5",
+          "width": 1600,
+          "height": 1067,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            5472,
+            3648
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:01.947Z",
+        "updated_at": "2026-11-02T19:39:01.947Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-8d530f2b8f364e86a2c65846050a979859cb9c8c4c20fbe50e0ea368b120da99",
+        "filename": "image_0566.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 3.182799999998882,
+        "display": {
+          "display_sha256": "34a114433fe87b88288f13a0603d4ad88b33f9bb0d73e0bad968da7f5e333ec3",
+          "width": 640,
+          "height": 427,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            640,
+            427
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:48.146Z",
+        "updated_at": "2026-11-02T19:39:49.063Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-949b053db7496b528e8913079be0b1f3e40fa3ca3607777919941026d43b12a0",
+        "filename": "image_0562.webp",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.5485999999996274,
+        "display": {
+          "display_sha256": "f95c8c4cbe82cc5e1f842f79217e64d2aea6b5e7f403878a2ba3b59a2d6620f7",
+          "width": 800,
+          "height": 449,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "WEBP",
+          "source_size": [
+            800,
+            449
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:45.946Z",
+        "updated_at": "2026-11-02T19:39:45.946Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-980325055835d736fc31053f05b05f1a8e2150507447c55f0b99ed2a61efbbf0",
+        "filename": "image_0684.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.132800000000745,
+        "display": {
+          "display_sha256": "cbc9cfe79ebc73d05fbc1f13c14844f64111c2e0fef66836a711a85afa37c72c",
+          "width": 1067,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            3840,
+            5760
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:08.513Z",
+        "updated_at": "2026-11-02T19:40:08.513Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-9f0ff17098f76096a193efb8ea40b701d730103eff21798bbe07cd1b6cfe3170",
+        "filename": "image_0305.jpg",
+        "labels": [
+          "exposure_fault"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 3.466900000000373,
+        "display": {
+          "display_sha256": "7ecab3b69f67ee2b62d2d3277403f1cc0088dde784cb3785c76e3736349e7fdf",
+          "width": 1067,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            4000,
+            6000
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:03.778Z",
+        "updated_at": "2026-11-02T19:39:03.778Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-a465e0754c6f85592485f2fd26d1fe6ad35b469c3ad634800161ed63d3439e69",
+        "filename": "image_0645.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.8990999999996276,
+        "display": {
+          "display_sha256": "0bc8d165de0a06db7988cee9b180758423fc44854437f764620ad09c4d5c19d4",
+          "width": 1600,
+          "height": 898,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            5835,
+            3275
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:59.463Z",
+        "updated_at": "2026-11-02T19:39:59.463Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-a73bba53e6b5851b98063cab5bfc61cf30547fe74fd2e4d0606cc6c83b92cfdc",
+        "filename": "image_0922.heic",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.782699999999255,
+        "display": {
+          "display_sha256": "a0c7503c3ed0e5b650d068f98bf8d3c66ffe618a9ae840ed8d9f08430ee60747",
+          "width": 1600,
+          "height": 1200,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "HEIF",
+          "source_size": [
+            4032,
+            3024
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:21.246Z",
+        "updated_at": "2026-11-02T19:40:21.246Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-a88dbe4e82a1c4b327894cd666fb2d1390a24006f90039e1430d8192302eff09",
+        "filename": "image_0928.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.4159000000003727,
+        "display": {
+          "display_sha256": "c756b9263002873fa90660c4df496435a440269ae556784ca74b2dbc426d5fa4",
+          "width": 992,
+          "height": 661,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            992,
+            661
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:23.345Z",
+        "updated_at": "2026-11-02T19:40:23.345Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-a916992d1baef18dea4e7843df621b192cb609496493df388e1f5500e36edaf2",
+        "filename": "image_0458.jpg",
+        "labels": [],
+        "artifact_judgment": "uncertain",
+        "status": "annotated",
+        "active_seconds": 2.283,
+        "display": {
+          "display_sha256": "b9fcb0844d5fd58889942671acaa5751226b503d8238ac611c10bb40d3a99b74",
+          "width": 1024,
+          "height": 768,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1024,
+            768
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:32.229Z",
+        "updated_at": "2026-11-02T19:39:32.229Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-aa6e3efcc9e67c2c86499a28463eeb85c3dae42b9a88d9f8e804026e1e32e19f",
+        "filename": "image_0340.jpeg",
+        "labels": [
+          "exposure_fault"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 5.2503999999985105,
+        "display": {
+          "display_sha256": "aa1fd05e8d1e13f0308516516060eb127b7449d4fc091f9ef358222362aa403b",
+          "width": 572,
+          "height": 367,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            572,
+            367
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:13.213Z",
+        "updated_at": "2026-11-02T19:39:14.646Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-ab4e8db5c97b65df20fabb03a9961b1548c048d70a214fe3bdf0455d2c9854db",
+        "filename": "image_0287.jpg",
+        "labels": [
+          "exposure_fault"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.115199999999255,
+        "display": {
+          "display_sha256": "71b8e558c398f30d97eaa0e901c15fbc67c880757787e7b21955e38a8d83285c",
+          "width": 1024,
+          "height": 683,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1024,
+            683
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:38:59.746Z",
+        "updated_at": "2026-11-02T19:38:59.746Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-b21c3cb804c57b60617a06441565e4692f423583d66da8b6d2f684ad657766f6",
+        "filename": "image_1083.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.181800000000745,
+        "display": {
+          "display_sha256": "4a80efe46b68d1d8c6375c20a164d79bbfdb9cd6a8312310c478c8672c9ff00a",
+          "width": 612,
+          "height": 408,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            612,
+            408
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:42.495Z",
+        "updated_at": "2026-11-02T19:40:42.495Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-bb4c632dba9fa4a5681bf91f180192c54d5df4c281586ba39ba5bf5b5faa722d",
+        "filename": "image_1076.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.2157999999988824,
+        "display": {
+          "display_sha256": "6c75ae93c3b7f653006fc94341a5851163b6d140acefa557fe2d585f0827478f",
+          "width": 612,
+          "height": 408,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            612,
+            408
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:40.379Z",
+        "updated_at": "2026-11-02T19:40:40.379Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-c2c67cc01a0347130f1c09a7e57d73f1eea620ffcbed10efc5e25505814fcf90",
+        "filename": "image_0147.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.1662999999988823,
+        "display": {
+          "display_sha256": "f4926c39e077cdf1fcc2c190893256fd71ef284db0712629172c1ce26f38f901",
+          "width": 1067,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            4000,
+            6000
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:38:48.379Z",
+        "updated_at": "2026-11-02T19:38:48.379Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-c31164e450b46b4f8962b83c933012d22a13557181234e2b62213dd0eb78a7d5",
+        "filename": "image_0640.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.6492999999988824,
+        "display": {
+          "display_sha256": "1bf2ddde198ea58a6ae232f026a8fee6f5ec59e7084fb2181ad5b2f93e52220d",
+          "width": 1600,
+          "height": 1064,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            6016,
+            4000
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:56.096Z",
+        "updated_at": "2026-11-02T19:39:56.096Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-cdc5758c90e87d2d60318b5e91587ca72479caaded6024912880038ef0cdf4af",
+        "filename": "image_1105.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 5.283900000000372,
+        "display": {
+          "display_sha256": "5b8b93bfafa7cb74c524f5bbf503bf172153684d012e5e831286e81c20bd0ad6",
+          "width": 1084,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            3432,
+            5068
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:47.663Z",
+        "updated_at": "2026-11-02T19:40:47.663Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-d3d4ea004ba0643b284d05cff5a67a9b6fb7ae73b7f14f7e9712fa476dce26f7",
+        "filename": "image_1048.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.3494000000003727,
+        "display": {
+          "display_sha256": "ecf608e2a7e7bb2246698699cd421cc708d8e9f072938ac4583b92aedf12fb75",
+          "width": 893,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1536,
+            2752
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:35.863Z",
+        "updated_at": "2026-11-02T19:40:35.863Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-d5ba9becd70466b0c864f850102fe0db2aa2e2aa34a4f943c85754d219162244",
+        "filename": "image_1056.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.433599999999627,
+        "display": {
+          "display_sha256": "71011387475073f3c978cdda8583742a7830305c0509f4296432985a434907f3",
+          "width": 1600,
+          "height": 1067,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            5616,
+            3744
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:38.346Z",
+        "updated_at": "2026-11-02T19:40:38.346Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-dcd4ea65cae78dfcbad1566e6ea5dfe1dcc0fae2fcd0c964002414f2df1f0f72",
+        "filename": "image_0814.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 3.7505999999996273,
+        "display": {
+          "display_sha256": "3275d5106f6e0c8704944cafa0a9015f7c63e59e0103360e7964953f500c9604",
+          "width": 1024,
+          "height": 685,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            1024,
+            685
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:14.346Z",
+        "updated_at": "2026-11-02T19:40:14.346Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-e64830b65389ab9738bf406bd68987f45de36cdd23b9acde66c69472a4b8aa37",
+        "filename": "image_0963.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.066,
+        "display": {
+          "display_sha256": "a63e2e18ec28abf8821271fe4665cd78e4dd0f969d6c240ab1ae0c0878738b24",
+          "width": 225,
+          "height": 225,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            225,
+            225
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:31.446Z",
+        "updated_at": "2026-11-02T19:40:31.446Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-e7062de84f9fd04254c1ab2b0e744886189f7f59ad3b3c23f88fd3a6d19cfc76",
+        "filename": "image_0661.jpg",
+        "labels": [
+          "optical_motion_blur"
+        ],
+        "artifact_judgment": "present",
+        "status": "annotated",
+        "active_seconds": 2.2500999999996276,
+        "display": {
+          "display_sha256": "bd4866658f869ec11d3de3615c652b2b030639f01d22b9fdb6bae24a2f064d5c",
+          "width": 1600,
+          "height": 1067,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            2950,
+            1967
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:40:06.412Z",
+        "updated_at": "2026-11-02T19:40:06.412Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-e74dd2079d30e4e81f5c878665b1740f6e9c0cfee16967d4a10e9450ed3b64bb",
+        "filename": "image_0488.jpg",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 3.3332000000011175,
+        "display": {
+          "display_sha256": "fc36c661cba34ece6f354e4a413bc185296f918d7c99493fd2d09f01a4ebaeea",
+          "width": 1200,
+          "height": 1600,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "JPEG",
+          "source_size": [
+            3024,
+            4032
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:35.779Z",
+        "updated_at": "2026-11-02T19:39:35.779Z"
+      }
+    },
+    {
+      "submission_id": "1a6257a0-3045-4d81-9fac-8c04df45f5ea",
+      "dataset_id": "study-f910f839701b6cf92926",
+      "group_id": "group-28",
+      "group_version": "8a5172feae9d13c933c3",
+      "annotator_id": "Subas Subedi",
+      "guidelines_version": "2.0",
+      "submitted_at": "2026-11-02T19:41:21.113735+00:00",
+      "annotation": {
+        "image_id": "img-efb394d6dd4864d288f7939d90269beaf1caa3c5773a982ff947f2f779756c57",
+        "filename": "image_0426.webp",
+        "labels": [],
+        "artifact_judgment": "none",
+        "status": "annotated",
+        "active_seconds": 2.6493999999985096,
+        "display": {
+          "display_sha256": "9ff0647f055b2354952fb906190026d4a6b110429ac4840780e69aca1a01773d",
+          "width": 1024,
+          "height": 683,
+          "profile": {
+            "format": "webp",
+            "max_edge": 1600,
+            "quality": 95,
+            "method": 6,
+            "orientation": "exif_transpose",
+            "frame": 0
+          },
+          "source_format": "WEBP",
+          "source_size": [
+            1024,
+            683
+          ],
+          "source_frames": 1
+        },
+        "started_at": "2026-11-02T19:39:29.945Z",
+        "updated_at": "2026-11-02T19:39:29.945Z"
       }
     }
   ]
