@@ -1,0 +1,84 @@
+{
+  "reference_dataset_id": "study-f910f839701b6cf92926",
+  "excluded_annotators": [
+    "Subas Subedi"
+  ],
+  "excluded_files": [
+    "Subas Subedi_group-16_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-17_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-18_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-19_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-20_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-21_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-22_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-23_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-24_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-25_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-26_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-27_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-28_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-29_study-f910f839701b6cf92926.json",
+    "Subas Subedi_group-30_study-f910f839701b6cf92926.json"
+  ],
+  "imported_export_count": 6,
+  "imported_answer_count": 271,
+  "matched_unique_image_count": 111,
+  "renamed_answer_count": 271,
+  "unmatched_image_count": 0,
+  "imports": [
+    {
+      "source_file": "Elijah Zinsli - Solo 5_group-01_study-be69dd407a4931604216.json",
+      "normalized_file": "student-export-aa4d7f4f-24f2-5573-99cf-a8cc4192e36f.json",
+      "source_sha256": "e83d08a50a3d88f7ecf7aa71ee592ce4ef0da126fcde44be3f11a3c5c3f8b759",
+      "annotator_id": "Elijah Zinsli - Solo 5",
+      "answer_count": 45
+    },
+    {
+      "source_file": "Elijah Zinsli - Solo 5_group-02_study-be69dd407a4931604216.json",
+      "normalized_file": "student-export-fb0dc63d-c164-56b6-b874-9953ce0295a0.json",
+      "source_sha256": "7595d70cf4c77780895598c03960ffccc3eaf283a2458e686d40472670edf211",
+      "annotator_id": "Elijah Zinsli - Solo 5",
+      "answer_count": 44
+    },
+    {
+      "source_file": "Elijah Zinsli - Solo 5_group-03_study-be69dd407a4931604216.json",
+      "normalized_file": "student-export-a480e8d2-d3cd-549d-81e2-878159919ade.json",
+      "source_sha256": "183ef3551e961f90ecae342c8157851cfefd05b7ac02a164fe5138913cf062cb",
+      "annotator_id": "Elijah Zinsli - Solo 5",
+      "answer_count": 48
+    },
+    {
+      "source_file": "Eliot Pak-01_group-01_study-be69dd407a4931604216.json",
+      "normalized_file": "student-export-1f6e2be2-0bd1-5d50-bf29-2ea2b906b29f.json",
+      "source_sha256": "f912e3f1f391486ee645e225ed8a8ebe1ed4d533a3f239be8e06488f5b3c9078",
+      "annotator_id": "student-01",
+      "answer_count": 45
+    },
+    {
+      "source_file": "Reshu-02_group-02_study-be69dd407a4931604216.json",
+      "normalized_file": "student-export-71728502-6303-5056-a3bb-b10b08f7b188.json",
+      "source_sha256": "da8c10c208fe5878be5678773d62772cd93868f4b324685641a8c17ac99163ad",
+      "annotator_id": "Reshu-02",
+      "answer_count": 44
+    },
+    {
+      "source_file": "Vishnu Kommanaboina_group-01_study-be69dd407a4931604216.json",
+      "normalized_file": "student-export-be40f15b-c53f-5547-b6c1-e7c1c863d525.json",
+      "source_sha256": "5525fb405a4664ae5758e6d6ae6f9841a367d74421558524366ba21d25ff68fd",
+      "annotator_id": "Vishnu Kommanaboina",
+      "answer_count": 45
+    }
+  ],
+  "master_summary": {
+    "raw_file_count": 36,
+    "submission_count": 36,
+    "annotation_count": 1743,
+    "unique_image_count": 1182,
+    "images_with_multiple_annotations": 121,
+    "submissions_per_dataset": {
+      "study-be69dd407a4931604216": 6,
+      "study-f910f839701b6cf92926": 30
+    }
+  },
+  "existing_annotations_policy": "preserved; separate student judgments appended"
+}

@@ -6,7 +6,9 @@ on:
     paths:
       - 'data/annotations/raw/**/*.json'
       - 'scripts/merge_annotations.py'
+      - 'scripts/import_student_exports.py'
       - 'tests/test_merge_annotations.py'
+      - 'tests/test_import_student_exports.py'
       - '.github/workflows/merge-annotations.yml'
   workflow_dispatch:
 
@@ -39,7 +41,7 @@ jobs:
             # This is a disposable Actions checkout. Always merge the latest raw files.
             git fetch origin main
             git reset --hard origin/main
-            python -m unittest discover -s tests -p 'test_merge_annotations.py'
+            python -m unittest discover -s tests -p 'test_*.py'
             python scripts/merge_annotations.py
             git add data/annotations/master.json
             if git diff --cached --quiet; then

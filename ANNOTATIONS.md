@@ -52,3 +52,34 @@ must be enabled. Repository/organization policies and branch protection must
 permit the Actions token to push to `main`; if they prohibit it, adjust that
 policy or use a pull-request publishing workflow instead. A failed workflow is
 visible under the repository's Actions tab; raw submissions remain untouched.
+
+
+## Older student exports
+
+`scripts/import_student_exports.py` matches older browser exports by original
+`image_id` against a selected dataset in the master. It never matches by filename.
+It keeps the old dataset/group context and each answer, replaces `filename` with
+the current filename, and records `original_filename` and import provenance.
+The export time is used as `submitted_at`, explicitly identified as export time,
+since these exports do not have a server submission timestamp.
+
+Original bytes are archived under `data/annotations/archive/student_exports/`.
+Normalized submissions are saved under `data/annotations/raw/student_exports/`,
+so the normal merge workflow retains them on future runs. Imported submission
+IDs are deterministic; repeating the same import does not duplicate answers.
+The importer excludes Subas Subedi by export filename or annotator name by
+default. This exclusion applies to importing exports; existing raw submissions
+are preserved. An import audit is written to
+`data/annotations/reports/student_export_import.json`.
+
+Run a preview, then repeat with `--apply` to write:
+
+```sh
+python scripts/import_student_exports.py --source PATH_TO_EXPORTS --reference-dataset study-f910f839701b6cf92926
+```
+
+The current import added 271 answers from six exports covering 111 images.
+All 111 original image hashes were verified against the current source files.
+All 271 answers required updated filenames. Fifteen Subas export files were
+excluded, and all existing master answers were retained. These are separate
+judgments for agreement/review; no older judgment overrides a newer one.
