@@ -72,6 +72,31 @@ def merge(raw_dir, output):
         "submissions": submissions,
         "annotations": annotations,
     }
+    reviewed_path = raw_dir.parent / "reviewed_labels.json"
+    if reviewed_path.exists():
+        reviewed = json.loads(reviewed_path.read_text(encoding="utf-8-sig"))
+        records = reviewed.get("reviewed_annotations")
+        if reviewed.get("schema_version") != 1 or not isinstance(records, list):
+            raise ValueError("Invalid reviewed_labels.json")
+        seen_images = set()
+        for record in records:
+            row = record["annotation"]
+            key, labels = row["image_id"], row["labels"]
+            if key not in counts or key in seen_images:
+                raise ValueError(f"Unknown or duplicate reviewed image: {key}")
+            if not isinstance(labels, list) or len(labels) != 1 or not (
+                (type(labels[0]) is int and labels[0] in (0, 1)) or labels[0] == "dropped"
+            ):
+                raise ValueError(f"Invalid reviewed label: {key}")
+            seen_images.add(key)
+        master["reviewed_annotations"] = records
+        master["reviewed_source"] = reviewed.get("source", {})
+        master["summary"]["reviewed_image_count"] = len(records)
+        master["summary"]["reviewed_label_counts"] = {
+            "0": sum(r["annotation"]["labels"] == [0] for r in records),
+            "1": sum(r["annotation"]["labels"] == [1] for r in records),
+            "dropped": sum(r["annotation"]["labels"] == ["dropped"] for r in records),
+        }
     text = json.dumps(master, indent=2, ensure_ascii=False, allow_nan=False) + "\n"
     output.parent.mkdir(parents=True, exist_ok=True)
     if not output.exists() or output.read_text(encoding="utf-8") != text:

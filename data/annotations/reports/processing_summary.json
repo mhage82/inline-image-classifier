@@ -1,0 +1,17 @@
+{
+  "unique_image_count": 1182,
+  "source_annotation_count": 1743,
+  "artifact_present": 640,
+  "artifact_absent": 537,
+  "review_required": 0,
+  "dropped_image_count": 5,
+  "single_annotator_images": 1061,
+  "multiple_annotator_images": 121,
+  "resolution_status_counts": {
+    "dropped": 5,
+    "workbook_reviewed": 1177
+  },
+  "repeated_answers_beyond_one_per_annotator": 276,
+  "category_disagreement_or_uncertainty_images": 26,
+  "source_images_outside_reference_dataset": 0
+}

@@ -1,0 +1,8 @@
+{
+  "reference_dataset_id": "study-f910f839701b6cf92926",
+  "disagreement_policy": "review",
+  "task": "binary_artifact_presence",
+  "repeated_annotator_policy": "one vote per normalized annotator ID; contradictory answers are uncertain",
+  "uncertain_policy": "manual_review",
+  "single_annotator_policy": "retain provisional label and mark single_annotator"
+}
